@@ -1,0 +1,7 @@
+{
+  "name": "car-itsur-laj",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
